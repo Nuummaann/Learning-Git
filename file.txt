@@ -1,1 +1,2 @@
 It can be anything
+Go ahead and add one more line of text to the file
